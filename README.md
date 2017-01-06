@@ -1,2 +1,0 @@
-# PythonRepository
-Python Test Code
